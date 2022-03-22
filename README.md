@@ -26,5 +26,5 @@ Feel free to develop the machine in any language that you're comfortable in.
 ## Running the application
 
 ```bash
-$ node index.js
+$ tsc index.ts
 ```

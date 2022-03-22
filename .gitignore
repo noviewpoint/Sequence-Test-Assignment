@@ -36,3 +36,6 @@ lerna-debug.log*
 
 # local env
 .env
+
+# other
+index.js
