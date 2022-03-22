@@ -23,8 +23,14 @@ The machine should perform as follows:
 
 Feel free to develop the machine in any language that you're comfortable in.
 
+## Installation
+
+```bash
+$ npm install
+```
+
 ## Running the application
 
 ```bash
-$ tsc index.ts
+$ npx tsc
 ```
